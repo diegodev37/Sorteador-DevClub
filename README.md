@@ -1,1 +1,1 @@
-https://diegodev37.github.io/Sorteador_-DevClub/
+https://diegodev37.github.io/Sorteador-DevClub/
